@@ -10,7 +10,7 @@ from pathlib import Path
 sys.path.append("D:\\Carla\\WindowsNoEditor\\PythonAPI\\carla\\dist\\carla-0.9.12-py3.7-win-amd64.egg")
 sys.path.append("D:\\Carla\\WindowsNoEditor\\PythonAPI\\carla")
 import carla
-
+print('Test')
 IM_WIDTH = 1920
 IM_HEIGHT = 1080
 _random_seed = 2000
